@@ -10,6 +10,8 @@ pinned: false
 
 An AI-powered dynamic pricing system that predicts optimal product prices using machine learning, demand signals, inventory pressure, and competitor pricing intelligence.
 
+## 🚀 live link:- https://huggingface.co/spaces/Kaif3118/dynamic-pricing-engine
+
 ## 🚀 Features
 - Dynamic price optimization
 - Revenue prediction dashboard
